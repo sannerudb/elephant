@@ -1,3 +1,3 @@
 # elephant
 test repository
-new change
+new changes in example
